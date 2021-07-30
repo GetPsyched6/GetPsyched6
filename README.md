@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GetPsyched6
-- I'm lovely
+- I'm lonely
 
 <!---
 GetPsyched6/GetPsyched6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
