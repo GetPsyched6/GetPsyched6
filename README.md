@@ -1,6 +1,7 @@
 - Roshin Nishad // IIITKottayam 2020
+
 - Hi, I’m @GetPsyched6
-- Proficient in all Languages if you consider proficiency as just knowing the name of the Language.
+- Proficient in all Languages if you consider proficiency as knowing the name of the Language.
 - Fan of COBOL and Fortran. DM me for a Lua 1v1 Competition.
 - Resident CSS developer.
 
