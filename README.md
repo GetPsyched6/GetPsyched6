@@ -1,7 +1,7 @@
 - Roshin Nishad // IIITKottayam 2020
 
 - Hi, I’m @GetPsyched6
-- Hope and Despair don't go together; yet their always there with you at the same time.
+- Hope and Despair don't go together, yet they're always there with you at the same time.
 - Resident CSS developer.
 
 <!---
