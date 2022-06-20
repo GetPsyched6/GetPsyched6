@@ -1,7 +1,7 @@
 - Roshin Nishad // IIITKottayam 2020
 
 - Hi, I’m @GetPsyched6
-- Fan of *nix and Fortran. DM me for a Lua 1v1 Competition.
+- Hope and Despair don't go together; yet their always there with you at the same time.
 - Resident CSS developer.
 
 <!---
