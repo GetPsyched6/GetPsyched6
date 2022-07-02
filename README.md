@@ -1,8 +1,10 @@
-- Roshin Nishad // IIITKottayam 2020
+- Roshin Nishad | IIITKottayam 2020 - 2024
 
-- Hi, I’m @GetPsyched6
-- Hope and Despair don't go together, yet they're always there with you at the same time.
-- Resident CSS developer.
+- Hi, I’m @GetPsyched6.
+- Hopelessly Depressed.
+- Resident CSS fanatic.
+- Advancing in JS / React / Nodejs.
+- Tragic Figma Addict.
 
 <!---
 GetPsyched6/GetPsyched6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
