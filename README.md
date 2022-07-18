@@ -1,7 +1,7 @@
 - Roshin Nishad | IIITKottayam 2020 - 2024
 
 - Hi, I’m @GetPsyched6.
-- Hopelessly Depressed.
+- Up all night.
 - Resident CSS fanatic.
 - Advancing in JS / React / Nodejs.
 - Tragic Figma Addict.
