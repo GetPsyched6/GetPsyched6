@@ -2,7 +2,7 @@
 
 - Hi, I’m @GetPsyched6.
 - Resident hard-core programming fanatic.
-- 🔴 Live, from the west coast. 🌴⛱️
+- 🔴 Live, from the west coast. ☀️🌴⛱️
 
 <!---
 GetPsyched6/GetPsyched6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
