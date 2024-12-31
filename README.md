@@ -1,7 +1,6 @@
-- Roshin Nishad | Bachelors of Tech. in Computer Science and Engineering.
-
 - Hi, I’m Roshin, resident programming hobbyist with a heart.
-- 🔴 Live, from the west coast. ☀️🌴⛱️
+- Bachelors of Tech. in Computer Science and Engineering | Cyclist | Urbanist and Walkable City Connoisseur.
+- 🔴 Live, from the west coast. (no, not *that* west coast) ☀️🌴⛱️
 
 <!---
 GetPsyched6/GetPsyched6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
