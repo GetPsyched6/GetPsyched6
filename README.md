@@ -1,7 +1,6 @@
 - Roshin Nishad | Bachelors of Tech. in Computer Science and Engineering.
 
-- Hi, I’m @GetPsyched6.
-- Resident hard-core programming fanatic.
+- Hi, I’m Roshin, resident programming hobbyist with a heart.
 - 🔴 Live, from the west coast. ☀️🌴⛱️
 
 <!---
