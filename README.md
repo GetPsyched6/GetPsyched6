@@ -1,4 +1,4 @@
-- Hi, I’m Roshin, resident programming hobbyist with a heart.
+- Hi, I’m Roshin, resident indie programming hobbyist with a heart.
 - Bachelors of Tech. in Computer Science and Engineering | Cyclist | Urbanist and Walkable City Connoisseur.
 - 🔴 Live, from the west coast. (no, not *that* west coast) ☀️🌴⛱️
 
