@@ -1,5 +1,5 @@
 - Hi, I’m Roshin, resident indie programming hobbyist.
-- Bachelors of Tech. in Computer Science and Engineering | Cyclist | Urbanist and Walkable City Connoisseur.
+- Bachelors of Tech. in Computer Science and Engineering | Cyclist | Urbanist and Walkable City proponent.
 - 🔴 Live, from the west coast. (no, not *that* west coast) ☀️🌴⛱️
 
 <!---
