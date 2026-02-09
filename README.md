@@ -1,6 +1,6 @@
 - Certified™ indie programming hobbyist.
 - Bachelors of Tech. in Computer Science | Cyclist | Urbanist.
-- Working on Rose Gardens.
+- Working on Hazel's Garden.
 
 <!---
 GetPsyched6/GetPsyched6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
